@@ -4,9 +4,7 @@ _Uso de la placa de desarrolló ["Explorer 16 Development Board "](https://www.m
 -ADC
 -PWM
 -UART
-Además se realizaron simulaciones en Proteus de estos circuitos/programas.
-
-_
+Además se realizaron simulaciones en Proteus de estos circuitos/programas._
 
 ## Comenzando 🚀
 
